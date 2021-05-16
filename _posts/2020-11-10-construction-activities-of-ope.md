@@ -1,24 +1,26 @@
 ---
 title: >-
-  Construction Activities of open (Issued, not final) Public Right-of-Way
+  Construction Activities of open (Issued, not final) Commercial Demolition
   Permits
-created: '2020-11-10T16:58:19.761449'
-modified: '2020-12-04T19:17:21.623371'
+created: '2020-11-10T16:58:15.918080'
+modified: '2020-12-04T19:17:08.952621'
 state: active
 type: dataset
 tags:
-  - Construction Activities
-  - Issued
+  - Activity
+  - Commercial
+  - Construction
+  - Demolition
+  - License
   - Open
   - Permits
-  - Public Right Of Way
 groups:
   - Local Government
 csv_url: >-
-  https://data.montgomerycountymd.gov/api/views/ktqv-9vft/rows.csv?accessType=DOWNLOAD
+  https://data.montgomerycountymd.gov/api/views/ha72-8evs/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.montgomerycountymd.gov/api/views/ktqv-9vft/rows.json?accessType=DOWNLOAD
+  https://data.montgomerycountymd.gov/api/views/ha72-8evs/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This dataset contains data for all Public Right-of-Way Permit applications issued in the last five years, including status and work performed.
+This dataset contains data for all Commercial Demolition Permit applications issued in the last five years, including status and work performed.
