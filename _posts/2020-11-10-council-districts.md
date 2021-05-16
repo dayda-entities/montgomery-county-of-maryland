@@ -1,16 +1,19 @@
 ---
 title: Council Districts
-created: '2020-11-10T16:58:09.858618'
-modified: '2020-11-10T16:58:09.858624'
+created: '2020-11-10T16:58:11.872606'
+modified: '2020-11-10T16:58:11.872649'
 state: active
 type: dataset
-tags: []
+tags:
+  - Council District
+  - Councilmanic
+  - County Council
 groups:
   - Local Government
 csv_url: >-
-  https://data.montgomerycountymd.gov/api/views/aije-gf78/rows.csv?accessType=DOWNLOAD
+  https://data.montgomerycountymd.gov/api/views/i23j-3mj8/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.montgomerycountymd.gov/api/views/aije-gf78/rows.json?accessType=DOWNLOAD
+  https://data.montgomerycountymd.gov/api/views/i23j-3mj8/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
