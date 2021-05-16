@@ -1,17 +1,20 @@
 ---
 title: String Config
-created: '2020-11-10T16:58:28.356555'
-modified: '2020-11-10T16:58:28.356566'
+created: '2020-11-10T16:58:09.986336'
+modified: '2020-11-10T16:58:09.986347'
 state: active
 type: dataset
-tags: []
+tags:
+  - Config
+  - String
+  - Text
 groups:
   - Local Government
 csv_url: >-
-  https://data.montgomerycountymd.gov/api/views/w7si-gcgk/rows.csv?accessType=DOWNLOAD
+  https://data.montgomerycountymd.gov/api/views/aqjk-fedc/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.montgomerycountymd.gov/api/views/w7si-gcgk/rows.json?accessType=DOWNLOAD
+  https://data.montgomerycountymd.gov/api/views/aqjk-fedc/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Supporting dataset necessary to launch spendingMontgomery
+Dataset created for budgetMontgomery purposes
